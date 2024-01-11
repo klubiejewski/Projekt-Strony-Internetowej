@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: steelblue;
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: dimgrey;
+    height: 150px;
+    width: 100%;
+}
+.ikona{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    float: left;
+}   
+.menu{
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+h1{
+    text-align: center;
+    padding-top: 45px;
+    padding-right: 45px;
+    color: white;
+    font-size: 50px;
+}
+.ryby{
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+.tekst1{
+font-size: 20px;
+padding: 20px;
+
+}
+.tekst2{
+    font-size: 20px;
+    padding-top: 40px;
+}
+.nazwa{
+    font-size: 25px;
+    float: left;
+    padding-top: 25px;
+    color: aliceblue;
+}
+ul {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    }
+    
+li a {
+    display: block;
+    float: left;
+    text-align: center;
+    font-size: 1.2em;
+    width: 130px;
+    text-decoration: none;
+    color: aliceblue;
+    background-color: dimgray;
+    padding: 15px;
+    margin:20px ;
+    border: 1px solid black;
+    border-radius: 3px;
+    box-shadow: 0px 2px 3px gray;
+}
+    
+li a:hover {
+    color: black;
+    background: aliceblue;
+    border: 1px solid white;
+    }
+.lista{
+    padding-left: 25%;
+}
+input{
+    margin: 5px;
+}
+label{
+    padding-left: 15px;
+}
+button{
+    margin-left: 15px;
+}
